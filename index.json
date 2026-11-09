@@ -1,6 +1,7 @@
 {
   "format_version": 1,
   "models": {
+    "etas1p_2026.json": "174140a4d6b0db769ee9778c616deb4ab9358682ee44f8b159e4ed7e86a43e94",
     "etas_2010.json": "42c79aae3ea54cf619138902ec40e07d29d36a33cb78509d0c00c8031d0ae03e",
     "etas_2022.json": "5869593b01d17dcb7c10d3a1cb4bf1cad17c41830cded925657ff77d888192ea",
     "suavk3_2026.json": "a6308196994c891c3c6674119ce2b1cf170b30f109af78c40d7f5c3272d6935b",
@@ -10,7 +11,8 @@
     {
       "month": "2026-11",
       "forecast": "2026-11/forecast.json",
-      "sha256": "d14f99ab0ae0f677bff69ddc74b7fe82669613ac014f68bd4784bc2440b50552"
+      "sha256": "d14f99ab0ae0f677bff69ddc74b7fe82669613ac014f68bd4784bc2440b50552",
+      "ots": "2026-11/forecast.json.ots"
     }
   ]
 }
